@@ -25,4 +25,4 @@ Color Used: 0
 
 Write a C program to generate a bitmap file following below:
 
-
+![image](https://github.com/percentwei/Create_bitmap/blob/master/picture.png)
