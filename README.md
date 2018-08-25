@@ -5,9 +5,7 @@ Suppose you have a monochrome bitmap file (160x160 pixel) with the following hea
 ==========
 BitMapFileHeader
 ==========
-Signature: BM
-Filesize: 3262
-Data Offset: 62
+Signature: BM Filesize: 3262 Data Offset: 62
 
 ==========
 InfoHeader
