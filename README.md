@@ -7,7 +7,7 @@ BitMapFileHeader
 ==========
 Signature: BM ,Filesize: 3262 ,Data Offset: 62
 
-==========
+
 InfoHeader
 ==========
 size of InfoHeader: 40 ,width: 160 ,height: 160 ,planes: 1
