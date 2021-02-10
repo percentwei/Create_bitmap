@@ -2,7 +2,7 @@
 
 Suppose you have a monochrome bitmap file (160x160 pixel) with the following header:
 
-==========
+
 BitMapFileHeader
 ==========
 Signature: BM ,Filesize: 3262 ,Data Offset: 62
